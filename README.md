@@ -40,3 +40,20 @@ Responce:
 "value": "0"
 }
 ```
+# Send BET2R 
+    Request: api/v1/wallet/sendBet/{"public_key":"a09111a1-a557-5b69-a94c-b7b291abbcc0", "deposit_money":"0.000485", "resoult":"true", "time":"2019-02-19T06:11:00.000Z", "multiply_bet":"2"}
+
+```sh
+Responce:
+
+{
+"betting_list": "["address": "b84ddbf0cf9d1470e63adc5861353e576a3ee561", "deposit_amount":"0.000485"]",
+"winning_resoult": "["address": "b84ddbf0cf9d1470e63adc5861353e576a3ee561", "winning_amount":"0.000999"]"
+}
+```
+# Check BET Tx status
+   Request:
+
+```sh
+Responce:
+```
