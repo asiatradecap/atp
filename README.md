@@ -59,8 +59,8 @@ Responce:
 ```
 
 # Check BET Tx status
-   Request:
-   /api/v1/wallet/checkBet/{"txHash":"0xbb915b9a5a2b3e3f75e9ba6633d4f3345692474ae49580416b2b4c4c748dbf39","public_key":"a09111a1-a557-5b69-a94c-b7b291abbcc0"} 
+    Request:
+    /api/v1/wallet/checkBet/{"txHash":"0xbb915b9a5a2b3e3f75e9ba6633d4f3345692474ae49580416b2b4c4c748dbf39","public_key":"a09111a1-a557-5b69-a94c-b7b291abbcc0"} 
 
 ```sh
 Responce:
